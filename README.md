@@ -22,7 +22,7 @@ API que utiliza dados do índice IPCA para retornar requisições de acordo com 
 
 -    Link das rotas em provedores:
        -    Render: https://projetohistoricoipca-f4id.onrender.com
-       -    Azure: historicoipca.azurewebsites.net
+       -    Azure: https://historicoipca.azurewebsites.net/
 
 -  Tecnologias utilizadas:
     -  JavaScript;
