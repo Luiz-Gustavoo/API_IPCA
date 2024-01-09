@@ -25,7 +25,7 @@ export const retornaHistoricoAno = (ano) => {
 }
 
 export const retornaRegistroID = (id) => {
-    const idIPCA = parseInt(id);
+    const idIPCA = id;
 
     return historicoInflacao.find(registro => registro.id === idIPCA);
 }
