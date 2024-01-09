@@ -21,8 +21,8 @@ API que utiliza dados do índice IPCA para retornar requisições de acordo com 
         -    4ª: https://projetohistoricoipca-f4id.onrender.com/historicoipca/calculo?valor=100&mesInicial=5&anoInicial=2020&mesFinal=12&anoFinal=2022
 
 -    Link das rotas em provedores:
-        Render: https://projetohistoricoipca-f4id.onrender.com
-        Azure: historicoipca.azurewebsites.net
+       -    Render: https://projetohistoricoipca-f4id.onrender.com
+       -    Azure: historicoipca.azurewebsites.net
 
 -  Tecnologias utilizadas:
     -  JavaScript;
